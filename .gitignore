@@ -1,0 +1,8 @@
+# Ignore the "Images" and "Video" folders
+/Images/
+/Video/
+
+# Ignore all video file types
+*.mp4
+*.avi
+# Add other video file extensions here if needed

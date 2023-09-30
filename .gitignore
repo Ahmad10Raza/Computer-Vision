@@ -1,7 +1,7 @@
 # Ignore the "Images" and "Video" folders
 /Images/
 /Video/
-
+/cascades/
 # Ignore all video file types
 *.mp4
 *.avi
